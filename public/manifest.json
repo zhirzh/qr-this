@@ -22,7 +22,7 @@
   ],
   "commands": {
     "_execute_browser_action": {
-      "suggested_key": "Alt+C"
+      "suggested_key": "Alt+Q"
     }
   }
 }

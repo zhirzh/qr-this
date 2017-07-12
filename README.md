@@ -6,6 +6,6 @@ A super tiny Chrome Extension to generate QR codes for a text selection and page
 
 How?
 
-Select some text and press "Alt+C" to convert the selected text.
+Select some text and press "Alt+Q" to convert the selected text.
 
-Select nothing and press "Alt+C" to convert page URL.
+Select nothing and press "Alt+Q" to convert page URL.
